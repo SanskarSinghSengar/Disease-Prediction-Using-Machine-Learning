@@ -60,5 +60,5 @@ This project demonstrated the power of machine learning for disease prediction b
 Future Scope
 1. **Larger Datasets**: Future work can involve testing the model on more diverse and larger datasets to improve generalization.
 2. **Advanced Algorithms**: Deep learning models like Convolutional Neural Networks (CNNs) or Recurrent Neural Networks (RNNs) can be explored for more effective feature extraction.
-3. **Real-time Prediction**: Integrating the model into a real-time healthcare system to predict diseases instantly based on input symptoms.
+3. **Real-time Prediction**: Integrating the model into a real-time healthcare system to predict diseases instantly based on input symptoms..
 
